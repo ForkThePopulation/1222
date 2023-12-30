@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "tg_server": "https://api.telegram.org",
+        "admin_ids": [12345678, 87654321]
+    },
+    "crypto": {
+        "chain_address": "https://bsc-dataseed.binance.org/",
+        "gas_price": 6,
+        "minimal_amount": 50
+    }
+}
